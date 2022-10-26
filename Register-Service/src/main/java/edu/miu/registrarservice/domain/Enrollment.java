@@ -25,4 +25,8 @@ public class Enrollment {
     @OneToOne
     private Student student;
 
+    // test
+
+    // test 2
+
 }
