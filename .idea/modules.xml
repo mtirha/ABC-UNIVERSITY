@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Admin-Service/Admin-Service.iml" filepath="$PROJECT_DIR$/Admin-Service/Admin-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assessment-Service1/Assessment-Service1.iml" filepath="$PROJECT_DIR$/Assessment-Service1/Assessment-Service1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assessment-Service2/Assessment-Service2.iml" filepath="$PROJECT_DIR$/Assessment-Service2/Assessment-Service2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MIU-UNIVERSITY.iml" filepath="$PROJECT_DIR$/MIU-UNIVERSITY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Register-Service/Register-Service.iml" filepath="$PROJECT_DIR$/Register-Service/Register-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Selfassessment-Service/Selfassessment-Service.iml" filepath="$PROJECT_DIR$/Selfassessment-Service/Selfassessment-Service.iml" />
+    </modules>
+  </component>
+</project>

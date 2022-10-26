@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Assessment-Service2" />
+        <module name="Admin-Service" />
+        <module name="Registration-Service" />
+        <module name="Assessment-Service1" />
+        <module name="Register-Service" />
+        <module name="Selfassessment-Service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Admin-Service" target="11" />
+      <module name="Assessment-Service1" target="11" />
+      <module name="Assessment-Service2" target="11" />
+      <module name="MIU-UNIVERSITY" target="11" />
+      <module name="Register-Service" target="11" />
+      <module name="Registration-Service" target="11" />
+      <module name="Selfassessment-Service" target="11" />
+      <module name="Subscription-Service" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Admin-Service" options="-parameters" />
+      <module name="Assessment-Service1" options="-parameters" />
+      <module name="Assessment-Service2" options="-parameters" />
+      <module name="MIU-UNIVERSITY" options="-parameters" />
+      <module name="Register-Service" options="-parameters" />
+      <module name="Registration-Service" options="-parameters" />
+      <module name="Selfassessment-Service" options="-parameters" />
+      <module name="Subscription-Service" options="-parameters" />
+    </option>
+  </component>
+</project>
